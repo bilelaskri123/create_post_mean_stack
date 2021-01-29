@@ -1,0 +1,6 @@
+{
+    "env" : {
+        "JWT_KEY": "bilelaskri1995",
+        "PORT": 3000
+    }
+}
